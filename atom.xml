@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://cthreewater.xyz/"/>
-  <updated>2016-05-13T00:56:59.248Z</updated>
+  <updated>2016-05-17T06:43:12.199Z</updated>
   <id>http://cthreewater.xyz/</id>
   
   <author>
@@ -16,29 +16,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://cthreewater.xyz/2016/05/13/hello-world/"/>
-    <id>http://cthreewater.xyz/2016/05/13/hello-world/</id>
-    <published>2016-05-13T00:56:59.247Z</published>
-    <updated>2016-05-13T00:56:59.248Z</updated>
+    <title>坐在河边的人</title>
+    <link href="http://cthreewater.xyz/2016/05/17/title-1/"/>
+    <id>http://cthreewater.xyz/2016/05/17/title-1/</id>
+    <published>2016-05-17T06:24:14.000Z</published>
+    <updated>2016-05-17T06:43:12.199Z</updated>
     
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
+    <content type="html">&lt;h2 id=&quot;石板凳和蚂蚁&quot;&gt;&lt;a href=&quot;#石板凳和蚂蚁&quot; class=&quot;headerlink&quot; title=&quot;石板凳和蚂蚁&quot;&gt;&lt;/a&gt;石板凳和蚂蚁&lt;/h2&gt;&lt;p&gt;我坐在河边的一条石板凳上面，上面是光透过树叶缝隙投射下来的斑驳的光影，还有几只小蚂蚁在上面转着圈圈，我像小时候那样睁大好奇的双眼看着它们的一举一动，但是我看了几分钟就感到厌烦了，早知道小时候这个够我玩一个下午了。这条石板凳对我来说就是一条普通的石板凳，如果不是今天思绪混沌胡乱走到这里，我想其实我这辈子是和这条石板凳无缘的，并且我们也就大概只有这一面之缘。如果可以缩小到像蚂蚁那样的大小，我们看到的世界不知道将会是什么样的，眼前的石板凳也就不再是一条普通的石板凳了。可惜我不是蚂蚁。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://o7b2y48ph.bkt.clouddn.com/714300100.jpg&quot; alt=&quot;picture1&quot;&gt;&lt;/p&gt;
+&lt;p&gt;图：石板凳&lt;/p&gt;
+&lt;h2 id=&quot;河流和鸟叫&quot;&gt;&lt;a href=&quot;#河流和鸟叫&quot; class=&quot;headerlink&quot; title=&quot;河流和鸟叫&quot;&gt;&lt;/a&gt;河流和鸟叫&lt;/h2&gt;&lt;p&gt;在我前面是一条我不知名的河我也不关心它的名字，这是一条肮脏的河。河水没有清澈但是它也努力保持着自己的尊严，尽自己最大的努力不让这条河上面有过多的垃圾。这是一条河的尊严，它让我想到了我家乡村里的那条小破河，也像它这般肮脏，我在小学四年级的时候还在那条肮脏的河里游泳，至今还是叫我怀念，那是我人生以来为数不多的在河里游泳经历之一。旁边是一棵柳树以及一些我叫不出来名字的树，树上面有不知道名字的鸟在叫，但是我一直把会叫的鸟想象成布谷鸟，我曾经想辨认鸟的声音，后来失败了，所以为了简单我就统一想象成布谷鸟了。我想，反正我长大以后又不靠鸟生活。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://o7b2y48ph.bkt.clouddn.com/268655838.jpg&quot; alt=&quot;picture2&quot;&gt;&lt;/p&gt;
+&lt;p&gt;图：一条肮脏而有尊严的河&lt;/p&gt;
+&lt;h2 id=&quot;坐在河边的人&quot;&gt;&lt;a href=&quot;#坐在河边的人&quot; class=&quot;headerlink&quot; title=&quot;坐在河边的人&quot;&gt;&lt;/a&gt;坐在河边的人&lt;/h2&gt;&lt;p&gt;坐在河边的人是我，我坐在一条石板凳上面，后来我不想坐了我就蹲上去了，这是一个我很喜欢的姿势，如果没有各种条条框框的束缚的话，我想我会很乐意在各种场合使用这种姿势。心情不好而又不算太不好的时候我想一个人坐在一个安静的地方思考一些问题，远处是一座桥，另外一边也是一座桥。抬头看了看头顶的阳光，似乎跟我记忆中河边抓鱼的夏天的阳光是一样的。我已经有三年的清明节没有回家了，突然很想回去跟爷爷奶奶说说话，虽然他们再也听不到，但是我还是有很多话想说给他们听，后来我再也很少梦见过我爷爷奶奶了，我不知道该怎么跟他们说，前天看书的时候看到理论物理的多宇宙理论，我突然就感到很温暖，因为我们会在另外一个宇宙相见。&lt;/p&gt;
+&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;http://music.163.com/outchain/player?type=2&amp;id=31445772&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;我很喜欢《理想三旬》的曲调和歌词，这首歌的作曲者是独立音乐人陈鸿宇，作词人是唐映枫。关于歌词的表达，唐映枫说如果你觉得通篇意象堆砌，韵脚生硬，你说得对，是这样的。如果你有被其中某一句歌词打动到，谢谢，它属于你。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      &lt;h2 id=&quot;石板凳和蚂蚁&quot;&gt;&lt;a href=&quot;#石板凳和蚂蚁&quot; class=&quot;headerlink&quot; title=&quot;石板凳和蚂蚁&quot;&gt;&lt;/a&gt;石板凳和蚂蚁&lt;/h2&gt;&lt;p&gt;我坐在河边的一条石板凳上面，上面是光透过树叶缝隙投射下来的斑驳的光影，还有几只小蚂蚁在上面转着圈圈，我像小时
     
     </summary>
     
+      <category term="随笔" scheme="http://cthreewater.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+      <category term="乱七八糟" scheme="http://cthreewater.xyz/tags/%E4%B9%B1%E4%B8%83%E5%85%AB%E7%B3%9F/"/>
     
   </entry>
   
